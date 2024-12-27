@@ -1,5 +1,5 @@
 ## DM_FinalProject
-This is the final project of the Data Mining course in NTHU.
+We join the Kaggle Competition as the final project of the Data Mining course in NTHU. 
 ## Kaggle competition
 Competition topic: Child Mind Institute — Problematic Internet Use
 
