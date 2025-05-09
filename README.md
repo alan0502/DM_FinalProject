@@ -3,7 +3,7 @@ We join the Kaggle Competition as the final project of the Data Mining course in
 ## Kaggle competition
 Competition topic: Child Mind Institute — Problematic Internet Use
 
-Team member: 張原鳴，馮紹哲，方俊平，吳孟維，黃子軒
+Team member: 張原鳴，馮紹哲，方竣平，吳孟維，黃子軒
 
 Final score (ranking): 45.7 (83/3559)
 
